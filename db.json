@@ -1,0 +1,12 @@
+{
+  "flags": [
+    {
+      "flag_name": "About",
+      "is_active": false
+    },
+    {
+      "flag_name": "Contact",
+      "is_active": true
+    }
+  ]
+}
