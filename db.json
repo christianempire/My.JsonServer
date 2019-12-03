@@ -1,6 +1,12 @@
 {
-  "flags": {
-    "AboutPage": false,
-    "ContactPage": true
-  }
+  "flags": [
+    {
+      "flag_name": "AboutPage",
+      "is_active": false
+    },
+    {
+      "flag_name": "ContactPage",
+      "is_active": true
+    }
+  ]
 }
