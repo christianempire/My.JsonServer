@@ -1,11 +1,11 @@
 {
   "flags": [
     {
-      "flag_name": "About",
+      "flag_name": "AboutPage",
       "is_active": false
     },
     {
-      "flag_name": "Contact",
+      "flag_name": "ContactPage",
       "is_active": true
     }
   ]
